@@ -87,7 +87,7 @@ switch($command[0]) {
 
         case '/start':
         case '/start'.$usernamebot :
-            sendMessage($chat_id, "Halo.. saya adalah BOT v2.1 cek /help");
+            sendMessage($chat_id, "Halo.. saya adalah Hmei7");
             break;
 
         case '/help':
@@ -491,7 +491,7 @@ $hasil=$hasil2;
 
         case '/creator':
         case '/creator'.$usernamebot :
-            $hasil  = "create by : @script000kiddies0000";
+            $hasil  = "create by : @Hmei7";
 	    sendMessage($chat_id,$hasil);
             break;
 
